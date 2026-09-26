@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Saniya Maniyar
 
-🎓 Third Year Engineering Student  
+🎓 Fourth Year Engineering Student  
 💻 Java Developer | DSA Learner  
 📍 Pune, India  
 🚀 Actively preparing for Software Developer placements  
